@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aCb3Da2KlKhnKW4HTYx7YMmiXzcUPxpQN7afVGVLIZkqipiybeFcY4DhWDn3hB9PiZEtlh6MlPjqRz2aOFy8wg==",
+  "success": true,
+  "projectFilePath": "C:\\Develop\\Budget_API\\BudgetItem.Service\\BudgetItem.Service\\BudgetItem.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bahrp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\bahrp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bahrp\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\bahrp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\bahrp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\bahrp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
